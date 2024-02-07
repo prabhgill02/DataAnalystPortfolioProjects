@@ -1,8 +1,8 @@
 ################################################################################
-######################               R                           ###############
+######################               Data Analysis                      ########
 ################################################################################
 ####################            Exploratory Analysis             ###############
-#####                               Assignment 1                         #######
+#####                              USING R                               #######
 ################################################################################
                                      
 ################################################################################
@@ -15,7 +15,7 @@
 
 
 ######################            TASKS       ###################################
-############################ Summarizing Data #################################
+############################ Summarizing Data ##################################
 #1. Summary Table
 #   a. Create a table to show the total income by each category of
 #      marital status.
@@ -28,21 +28,21 @@
 #   a. Create a table to show the mean score on the political
 #      awareness test for males compared to females.
 #   b. Which has a higher score?
-#4. Calculate the 34th and 63rd percentiles of percentage of time taken on
+#4. Calculate the 34th and 63rd percentiles of the percentage of time taken on
 #   the test.
 
 # ################### 1 Organizing Data     #####################
 # NOTE: All charts should have appropriated scaled axes and should be
-# properly labelled.
+# properly labeled.
 # 1. Pie Chart
 #    a. Create a pie chart showing the number of respondents by
 #      Political Affiliation.
-#    b. Which Political Affiliation containsthe most respondents
+#    b. Which Political Affiliation contains the most respondents
 #       (remember each row of your study file represents one
 #        respondent)?
-#    c. Which Political Affiliation hasthe fewest respondents?
+#    c. Which Political Affiliation has the fewest respondents?
 ######################2. Summary table    e #####################
-#    a. Create a table thatshows the percentage of respondents
+#    a. Create a table that shows the percentage of respondents
 #       from each Region that are in the Treatment group.
 #    b. Which region has the highest percentage of people in the
 #      Treatment group?
@@ -62,17 +62,17 @@
 #       income separated by marital status.
 #     b. According to the charts, which martial status has the highest
 #        average income?
-#     c. Which marital status hasthe lowest average income?
+#     c. Which marital status has the lowest average income?
 #     d. Which marital status has the greatest variability in income?
 #     ##################   6. Scatter Plots  ########################
 #     a. Create a histogram for income.
-#     b. Create a histogram forstandardized score.
+#     b. Create a histogram for standardized scores.
 #     c. Create a scatter plot showing the relationship between the
 #        income and standardized score. (note: income should be on
 #         the x-axis, standardized score should be the y-axis)
 #     d. What conclusions, if any, can you draw from the chart?
 #     e. Calculate a correlation coefficient between these two
-#        variables. What conclusion you draw from it?
+#        variables. What conclusion do you draw from it?
  
 
 
