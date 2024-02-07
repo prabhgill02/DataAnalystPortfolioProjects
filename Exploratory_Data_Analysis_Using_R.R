@@ -1,17 +1,88 @@
 ################################################################################
-######################                 PROG8435                  ###############
+######################               R                           ###############
 ################################################################################
-####################            Assign01-Exploratory 24W         ###############
+####################            Exploratory Analysis             ###############
 #####                               Assignment 1                         #######
 ################################################################################
                                      
 ################################################################################
-##                            Written by PRABHDEEP sINGH                      ##
-##                                  ID: 8946518                            #####
+##                            Written by PRABHDEEP SINGH                      ##
+
 #
 ################################################################################
 ###                               Basic Set Up                              ####
 ################################################################################
+
+
+######################            TASKS       ###################################
+############################ Summarizing Data #################################
+#1. Summary Table
+#   a. Create a table to show the total income by each category of
+#      marital status.
+#   b. Which status has the highest total income?
+#2. Calculate the mean (rounded to two decimal places)
+#   a. Calculate the mean age of respondents born in Asia.
+#   b. Calculate the mean age of respondents born in Asia weighted by
+#      the number of children they have.
+#3. Table Comparison
+#   a. Create a table to show the mean score on the political
+#      awareness test for males compared to females.
+#   b. Which has a higher score?
+#4. Calculate the 34th and 63rd percentiles of percentage of time taken on
+#   the test.
+
+# ################### 1 Organizing Data     #####################
+# NOTE: All charts should have appropriated scaled axes and should be
+# properly labelled.
+# 1. Pie Chart
+#    a. Create a pie chart showing the number of respondents by
+#      Political Affiliation.
+#    b. Which Political Affiliation containsthe most respondents
+#       (remember each row of your study file represents one
+#        respondent)?
+#    c. Which Political Affiliation hasthe fewest respondents?
+######################2. Summary table    e #####################
+#    a. Create a table thatshows the percentage of respondents
+#       from each Region that are in the Treatment group.
+#    b. Which region has the highest percentage of people in the
+#      Treatment group?
+#    c. Which region has the lowest percentage of people in the
+#       Treatment group?
+#    #############    3. Bar Chart ########################
+#    a. Create a bar chart showing the mean Standardized Test
+#        Score on the Political Awareness Test for each Region.
+#    b. Which Region has the lowest mean score?
+#    c. Which Region has the highest mean score?
+#       ##################  4. Histogram ######################
+#    a. Create a histogram with 5 bins showing the distribution of
+#       the percentage of household income going to food.
+#    b. Which range of values has the highest frequency?
+#       ############## 5. Box Plots #########################
+#    a. Create a sequence of box plots showing the distribution of
+#       income separated by marital status.
+#     b. According to the charts, which martial status has the highest
+#        average income?
+#     c. Which marital status hasthe lowest average income?
+#     d. Which marital status has the greatest variability in income?
+#     ##################   6. Scatter Plots  ########################
+#     a. Create a histogram for income.
+#     b. Create a histogram forstandardized score.
+#     c. Create a scatter plot showing the relationship between the
+#        income and standardized score. (note: income should be on
+#         the x-axis, standardized score should be the y-axis)
+#     d. What conclusions, if any, can you draw from the chart?
+#     e. Calculate a correlation coefficient between these two
+#        variables. What conclusion you draw from it?
+ 
+
+
+
+
+
+
+
+
+
 
 # Clear plots
 if(!is.null(dev.list())) dev.off()
